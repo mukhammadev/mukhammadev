@@ -8,9 +8,9 @@
 
 <!-- Cool Status Badges -->
 <div style="margin: 30px 0;">
-<img src="https://img.shields.io/badge/🏠_Andijan,_Uzbekistan_🇺🇿-4FACFE?style=for-the-badge&logo=home&logoColor=white&labelColor=667eea" />
+<img src="https://img.shields.io/badge/🏠_Fergana,_Uzbekistan_🇺🇿-4FACFE?style=for-the-badge&logo=home&logoColor=white&labelColor=667eea" />
 <img src="https://img.shields.io/badge/💻_Python_Developer_🐍-00F2FE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea" />
-<img src="https://img.shields.io/badge/🎯_Backend_Expert_⚡-764ba2?style=for-the-badge&logo=server&logoColor=white&labelColor=667eea" />
+<img src="https://img.shields.io/badge/🤖_ML_Enthusiast_🧠-764ba2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=667eea" />
 <img src="https://img.shields.io/badge/🌱_Tech_Explorer_🚀-32CD32?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=667eea" />
 </div>
 
@@ -49,14 +49,15 @@ class CoolDeveloper:
     def __init__(self):
         self.name = "Mukhammadjan Mamadaliyev 🚀"
         self.role = "Python Expert 💻"
-        self.location = "Andijan, UZ 🏠"
+        self.location = "Fergana, UZ 🏠"
         self.vibe = "Always Coding 😎"
         self.superpower = "Turning Ideas into Apps ⚡"
-        self.learning = ["FastAPI 🚀", "React ⚛️", "Docker 🐳"]
+        self.learning = ["FastAPI 🚀", "Machine Learning 🤖", "Docker 🐳"]
     
     def get_skills(self):
         return {
             "backend": ["Python 🐍", "FastAPI ⚡", "Django 🎯"],
+            "machine_learning": ["Python 🐍", "Pandas 🐼", "Scikit-learn 🤖"],
             "frontend": ["JavaScript 💛", "React 🔥", "CSS 🎨"],
             "database": ["PostgreSQL 🐘", "MongoDB 🍃"],
             "tools": ["Git 🌿", "Docker 🐳", "VS Code 💜"]
@@ -88,6 +89,11 @@ print(f"Current mode: {me.daily_grind()}")
 ![JavaScript](https://img.shields.io/badge/JavaScript_💛-764ba2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=667eea)
 ![React](https://img.shields.io/badge/React_⚛️-32CD32?style=for-the-badge&logo=react&logoColor=white&labelColor=667eea)
 ![Django](https://img.shields.io/badge/Django_🎯-9370DB?style=for-the-badge&logo=django&logoColor=white&labelColor=667eea)
+
+### 🤖 Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas_🐼-4FACFE?style=for-the-badge&logo=pandas&logoColor=white&labelColor=667eea)
+![NumPy](https://img.shields.io/badge/NumPy_🔢-00F2FE?style=for-the-badge&logo=numpy&logoColor=white&labelColor=667eea)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn_🤖-764ba2?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=667eea)
 
 ### 🛠️ Tools & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_🐘-4FACFE?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=667eea)
