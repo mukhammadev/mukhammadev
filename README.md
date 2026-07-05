@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ultra Premium Animated Header for Boys -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Mukhammadjan%20Mamadaliyev%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Mukhammadjan%20Mamadaliyev%20🚀%20Python%20Developer%20%26%20ML%20Engineer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
 
 <!-- Cool Boy Developer Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=750&lines=⚡+Building+Epic+Web+Applications+⚡;🚀+Python+%7C+FastAPI+%7C+Clean+Code+🚀;💎+Crafting+Digital+Solutions+💎;🔥+Always+Coding%2C+Always+Growing+🔥" alt="Cool Typing Animation" />
@@ -58,7 +58,6 @@ class CoolDeveloper:
         return {
             "backend": ["Python 🐍", "FastAPI ⚡", "Django 🎯"],
             "machine_learning": ["Python 🐍", "Pandas 🐼", "Scikit-learn 🤖"],
-            "frontend": ["JavaScript 💛", "React 🔥", "CSS 🎨"],
             "database": ["PostgreSQL 🐘", "MongoDB 🍃"],
             "tools": ["Git 🌿", "Docker 🐳", "VS Code 💜"]
         }
@@ -86,8 +85,6 @@ print(f"Current mode: {me.daily_grind()}")
 ### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python_🐍-4FACFE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea)
 ![FastAPI](https://img.shields.io/badge/FastAPI_⚡-00F2FE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=667eea)
-![JavaScript](https://img.shields.io/badge/JavaScript_💛-764ba2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=667eea)
-![React](https://img.shields.io/badge/React_⚛️-32CD32?style=for-the-badge&logo=react&logoColor=white&labelColor=667eea)
 ![Django](https://img.shields.io/badge/Django_🎯-9370DB?style=for-the-badge&logo=django&logoColor=white&labelColor=667eea)
 
 ### 🤖 Machine Learning
@@ -140,7 +137,7 @@ print(f"Current mode: {me.daily_grind()}")
 # My 2025 Coding Mission 🎯⚡
 mission = {
     "⚡ Q1": {
-        "targets": ["FastAPI Mastery 🚀", "React Domination ⚛️", "Docker Skills 🐳"],
+        "targets": ["FastAPI Mastery 🚀", "ML Model Deployment 🤖", "Docker Skills 🐳"],
         "status": "🔥 Currently Grinding"
     },
     "🚀 Q2": {
